@@ -3,3 +3,9 @@ _site
 node_modules
 Gemfile.lock
 *.gem
+
+#Intellij
+.idea
+
+#Jekyll
+.jekyll-cache
